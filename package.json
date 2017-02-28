@@ -21,12 +21,12 @@
     "dev": "webpack-dev-server --port 3002 --devtool eval --progress --hot --colors --content-base build"
   },
   "peerDependencies": {
-    "react": ">=0.13"
+    "react": ">=0.15"
   },
   "dependencies": {
-    "c3": "^0.4.10",
-    "d3": "^3.5.5",
-    "lodash": "^3.9.3"
+    "c3": "^0.4.11",
+    "d3": "^4.6.0",
+    "lodash": "^4.17.4"
   },
   "devDependency": {
     "react-bootstrap": "^0.23.0",
